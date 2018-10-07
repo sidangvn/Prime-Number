@@ -1,4 +1,4 @@
-# Prime-Number
+# Prime-Number - 6
 
 Prime (60 pts) – Prime.java
  
